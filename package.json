@@ -1,0 +1,30 @@
+{
+  "name": "udpnode",
+  "version": "1.0.0",
+  "description": "UDP socket based on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temaqwest/UDPSocketNodeJS.git"
+  },
+  "keywords": [
+    "UDP",
+    "nodejs",
+    "socket",
+    "server",
+    "test",
+    "irp"
+  ],
+  "author": "Artem Tatevosyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temaqwest/UDPSocketNodeJS/issues"
+  },
+  "homepage": "https://github.com/temaqwest/UDPSocketNodeJS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
